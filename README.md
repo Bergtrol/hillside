@@ -1,11 +1,8 @@
-# Hillside Ergonomic Keyboard
+# Hillside Ergonomic Keyboards
 
 Hillside is a small family of split ergonomic keyboards.
 
 ![Hillside keyboard with nice!nano and switches](hillside48/doc/image/nice_pair_stacked.png "Keyboard with nice!nano and switches")
-
-So rather like a choc Kyria, minus two keys. With 42 to 48 keys it isn't minimalist,
-  but it is compact on finger travel while still allowing roomy keymaps.
 
 Common Features:
 - Choc-spaced keys, aggressive stagger, four key thumb arc, break-off pinky column
@@ -19,10 +16,10 @@ Common Features:
 - Detailed BOM and default keyboard rational.
 - SMT diodes, resistors, capacitors, and reset switch
 
-Hillside is _only_ suitable for choc v1 switches and keycaps based on an 18 x 17mm switch spacing, such as the MBK keycaps. Not MX ones, nor 18 x 18mm ones such as Work Louder.
+Hillside boards are _only_ suitable for choc v1 switches and keycaps based on an 18 x 17mm switch spacing, such as the MBK keycaps. Not MX ones, nor 18 x 18mm ones such as Work Louder.
 
 For details on each board see the [wiki](https://github.com/mmccoyd/hillside/wiki) and each board's readme:
-- [Hillside48](hillside48/README.md): 3x6+4+2 choc-spaced keys, like a Ferris Sweep on steroids.
+- [Hillside48](hillside48/README.md): 3x6+4+2 choc-spaced keys, like a Ferris Sweep on steroids. (As the original, also known as just Hillside.
 
 
 ## Hardware
@@ -36,7 +33,7 @@ See [Forking and Modifying](https://github.com/mmccoyd/hillside/wiki/Forking%20a
 
 ## Firmware
 
-QMK includes firmware for [Hillside](https://github.com/qmk/qmk_firmware/tree/master/keyboards/handwired/hillside).
+QMK includes firmware for [Hillside48](https://github.com/qmk/qmk_firmware/tree/master/keyboards/handwired/hillside).
 
 For ZMK, firmware access is at [Hillside ZMK Firmware](https://github.com/mmccoyd/zmk-config).
 

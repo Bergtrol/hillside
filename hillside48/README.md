@@ -1,6 +1,6 @@
-# Hillside Ergonomic Keyboard
+# Hillside48 Ergonomic Keyboard
 
-Hillside is a split ergonomic keyboard with 3x6+4+2 choc-spaced keys. It has the aggressive stagger of the Ferris but a longer thumb arc and a break-off outer pinky column.
+Hillside48 is a split ergonomic keyboard with 3x6+4+2 choc-spaced keys. It has the aggressive stagger of the Ferris but a longer thumb arc and a break-off outer pinky column.
 
 ![Hillside keyboard with nice!nano and switches](doc/image/nice_pair_stacked.png "Keyboard with nice!nano and switches")
 
@@ -19,7 +19,9 @@ Features:
 - Detailed BOM and default keyboard rational.
 - SMT diodes, resistors, capacitors, and reset switch
 
-Hillside is _only_ suitable for choc v1 switches and keycaps based on an 18 x 17mm switch spacing, such as the MBK keycaps. Not MX ones, nor 18 x 18mm ones such as Work Louder.
+Hillside48 is _only_ suitable for choc v1 switches and keycaps based on an 18 x 17mm switch spacing, such as the MBK keycaps. Not MX ones, nor 18 x 18mm ones such as Work Louder.
+
+As the first Hillside board, it was originally just Hillside and is also just hillside/0_1 within the QMK firmware.
 
 ## Hardware
 
