@@ -6,20 +6,21 @@ Hillside is a small family of split ergonomic keyboards.
 
 Common Features:
 - Choc-spaced keys, aggressive stagger, four key thumb arc, break-off pinky column
-- Tenting puck and trackball mount points
+- Tenting puck support
 - QMK and ZMK firmware
 - Nice!nano battery power switch and decoupling capacitor
 - Encoder support
-- Haptic feedback header
+- Haptic feedback header and mount
 - Underglow from five SK6812-MINI-Es
-- Reversible 99 x 137mm PCB, which qualifies for AllPCB's free PCB offer
-- Detailed BOM and default keyboard rational.
+- Reversible PCB which qualifies for AllPCB's free PCB offer, roughly 100 x 138mm
+- Detailed BOM and default keyboard rational
 - SMT diodes, resistors, capacitors, and reset switch
 
-Hillside boards are _only_ suitable for choc v1 switches and keycaps based on an 18 x 17mm switch spacing, such as the MBK keycaps. Not MX ones, nor 18 x 18mm ones such as Work Louder.
-
 For details on each board see the [wiki](https://github.com/mmccoyd/hillside/wiki) and each board's readme:
-- [Hillside48](hillside48/README.md): 3x6+4+2 choc-spaced keys, like a Ferris Sweep on steroids. (As the original, also known as just Hillside.
+- [Hillside56](hillside56/README.md): 3x6+5+5 keys, arrow T clusters added to Hillside48, plus more encoder options.
+- [Hillside48](hillside48/README.md): 3x6+4+2 keys, like a Ferris Sweep on steroids. (Also known as just Hillside, as the original.)
+
+Hillside boards are _only_ suitable for choc v1 switches and keycaps based on an 18 x 17mm switch spacing, such as the MBK keycaps. Not MX ones, nor 18 x 18mm ones such as Work Louder.
 
 
 ## Hardware
@@ -49,4 +50,3 @@ The keyboards I have used and read about also influenced this board including th
   [Kyria](https://splitkb.com/collections/keyboard-kits/products/kyria-pcb-kit),
   [Corne](https://github.com/foostan/crkbd) and
   [Ferris](https://github.com/pierrechevalier83/ferris).
-
