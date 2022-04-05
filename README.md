@@ -4,21 +4,33 @@ Hillside is a small family of split ergonomic keyboards.
 
 ![Hillside keyboard with nice!nano and switches](hillside48/doc/image/nice_pair_stacked.png "Keyboard with nice!nano and switches")
 
-Common Features:
-- Choc-spaced keys, aggressive stagger, four key thumb arc, break-off pinky column
+The boards are the:
+
+- [Hillside 48](hillside48/README.md): Like a Ferris Sweep on steroids. As the original also known as just Hillside.
+- [Hillside 56](hillside56/README.md): More novice friendly with a physical arrow T cluster without using an alpha or symbol key.
+
+Their differences are:
+
+| Board      | Layout  | Arrows T <br> Cluster | Encoder <br> Spots / Side | Hotswap <br> Support|
+|:------------|:---------|:----------:|:---------------:|:---------:|
+| Hillside 48 | 3x6+1+5 | no       | 1             | no      |
+| Hillside 56 | 3x6+5+5 | yes      | 4             | yes     |
+
+Their common features are:
+
+- Choc-spaced keys, aggressive stagger, five thumb keys
+- Break-off pinky column
 - Tenting puck support
 - QMK and ZMK firmware
-- Nice!nano battery power switch and decoupling capacitor
-- Encoder support
+- Nice!nano battery power switch
+- Encoder support for one per side
 - Haptic feedback header and mount
 - Underglow from five SK6812-MINI-Es
-- Reversible PCB which qualifies for AllPCB's free PCB offer, roughly 100 x 138mm
+- Reversible PCB which qualifies for AllPCB's free PCB
 - Detailed BOM and default keyboard rational
 - SMT diodes, resistors, capacitors, and reset switch
 
 For details on each board see the [wiki](https://github.com/mmccoyd/hillside/wiki) and each board's readme:
-- [Hillside56](hillside56/README.md): 3x6+5+5 keys, arrow T clusters added to Hillside48, plus more encoder options.
-- [Hillside48](hillside48/README.md): 3x6+4+2 keys, like a Ferris Sweep on steroids. (Also known as just Hillside, as the original.)
 
 Hillside boards are _only_ suitable for choc v1 switches and keycaps based on an 18 x 17mm switch spacing, such as the MBK keycaps. Not MX ones, nor 18 x 18mm ones such as Work Louder.
 
@@ -27,7 +39,7 @@ Hillside boards are _only_ suitable for choc v1 switches and keycaps based on an
 
 See the [wiki](https://github.com/mmccoyd/hillside/wiki)
   for how to order the PCB and build the board.
-KiCad 6 was used to create the board gerbers.
+KiCad 6 was used to create the boards.
 
 See [Forking and Modifying](https://github.com/mmccoyd/hillside/wiki/Forking%20and%20Modifying)
   on whether it would be difficult to modify this design, for those that are interested.
