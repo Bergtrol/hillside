@@ -1,36 +1,24 @@
-# Hillside52
+# Hillside 52
 
-Hillside52 is a split ergonomic keyboard with 3x6+5+5 choc-spaced keys.
+Hillside52 is a split ergonomic keyboard with 3x6+3+5 choc-spaced keys.
 It has the aggressive stagger of the Ferris but
   physical arrow clusters, a longer thumb arc
   and break-off outer pinky columns.
 
-![Hillside52 keyboard](doc/image/hill52_photo_pair.png "Both halves")
+![Hillside52 keyboard](doc/image/hill52_photo.png "Hillside 52 keyboard")
 
-The arrow clusters provide a more familiar keymap for users new to small keyboards and for more seasoned users provide good encoder or extra key spots.
+The arrow clusters provide a more familiar keymap for users new to small keyboards and for more seasoned users provide handy extra key spots. 
+ See the Hillside family readme for features common with the other boards.
+ - One Encoder per side at either: upper or tucked thumb or lowest ring
+- Reversible 100 x 143mm PCB, which qualifies for AllPCB's free PCB offer
 
-Additional Features:
-- Tenting puck mount point
-- QMK and ZMK firmware
-- Nice!nano battery power switch and decoupling capacitor
-- One Encoder per side at either: upper or tucked thumb or two lowest ring
-- Haptic feedback header
-- Underglow from five SK6812-MINI-Es
-- Reversible 100 x 138mm PCB, which qualifies for AllPCB's free PCB offer
-- Detailed BOM and default keyboard rational.
-- SMT diodes, resistors, capacitors, and reset switch
+## Keymap
 
-Hillside52] is _only_ suitable for choc v1 switches and keycaps based on an 18 x 17mm switch spacing, such as the MBK keycaps. Not MX ones, nor 18 x 18mm ones such as Work Louder.
+The default keymap provides physical arrow keys, alternate hand modifiers for all keys and a navigation and editing layer. See the keymap [descrition](doc/keymap.md) for more details. ![Hillside52 keyboard](https://github.com/mmccoyd/hillside/wiki/image/keymap/hill52_summary.png "Hillside 52 keyboard three main layers")
 
-## Hardware
 
-See the [wiki](https://github.com/mmccoyd/hillside/wiki)
-  for how to order the PCB and build the board.
-The project files use KiCad 6.
 
-See [Forking and Modifying](https://github.com/mmccoyd/hillside/wiki/Forking%20and%20Modifying)
-  on whether it would be difficult to modify this design, for those that are interested.
-
+  
 ## Firmware
 
 QMK: a fork I need to push, which will become a PR
@@ -50,9 +38,6 @@ A visually easy to use keyboard is useful. Either for people new to small keyboa
 I find a few extra keys laying around lets me have multiple approaches to things. This allows me to choose between approaches gradually over time.
 Also, the extra keys fit within the existing Hillside48 footprint, the inner arrow might be a good thumb key, and the center arrow seems a good encoder spot.
 
-## Acknowledgments
-
-The awesome Low Profile Keyboards and splitkb.com discord communities provided a fertile learning ground for my keyboard explorations.
 
 ## Images
 
