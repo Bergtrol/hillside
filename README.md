@@ -2,21 +2,21 @@
 
 Hillside is a small family of split ergonomic keyboards.
 
-![Hillside keyboard with nice!nano and switches](doc/image/hillside_family_600.png "Hillside 56, 52 and 48 keyboards")
+![Hillside keyboard with nice!nano and switches](https://github.com/mmccoyd/hillside/wiki/image/board/hill_family_600.png "Hillside 56, 52 and 48 keyboards")
 
 The boards are the:
 
-- [Hillside 56](hillside56/readme.md) with a physical arrow T cluster fully separate from the alpha keys. The most novice friendly, but the largest.
-- [Hillside 52](hillside52/readme.md) with ring and pinky splay and whose physical arrow keys steal one of the alpha keys. The best all around choice.
-- [Hillside 48](hillside48/readme.md) which is like a Ferris Sweep on steroids. The original and most compact.
+- [Hillside 56](hillside56) with a physical arrow T cluster fully separate from the alpha keys. The most novice friendly, but the largest.
+- [Hillside 52](hillside52) with ring and pinky splay and whose physical arrow keys steal one of the alpha keys. The best all around choice.
+- [Hillside 48](hillside48) which is like a Ferris Sweep on steroids. The original and most compact.
 
 Their key differences are:
 
-| Board      | Layout  | Arrows T <br> Cluster | Finger <br> Splay | Encoder <br> Spots / Side | Hotswap <br> Support| Narrow <br> Layout | Narrow <br> Size |
+| Board      | Layout  | Arrow <br> T | Finger <br> Splay | Encoder <br> Spots / Side | Hotswap <br> Option| Thin <br> Layout | Thin <br> Size |
 |:------------|:--------|:--------:|:---------:|:---------:|:-------:|:-------:|:-------:|
-| [Hillside 56](hillside56/readme.md) | 3x6+5+5 | yes      |  no       | 4         | yes     | 3x5+4+5 | 48 |
-| [Hillside 52](hillside52/readme.md) | 3x6+3+5 | yes      |  yes      | 3         | yes     | 3x5+2+5 | 44 |
-| [Hillside 48](hillside48/readme.md) | 3x6+1+5 | no       |  no       | 1         | no      | 3x5+1+5 | 42 |
+| [Hillside 56](hillside56) | 3x6+5+5 | yes      |  no       | 4         | yes     | 3x5+4+5 | 48 |
+| [Hillside 52](hillside52) | 3x6+3+5 | yes      |  yes      | 3         | yes     | 3x5+2+5 | 44 |
+| [Hillside 48](hillside48) | 3x6+1+5 | no       |  no       | 1         | no      | 3x5+1+5 | 42 |
 
 Their common features are:
 
@@ -34,7 +34,7 @@ Their common features are:
 
 See the board readmes for details and default keymaps.
 
-Hillside boards are _only_ suitable for choc v1 switches and keycaps based on an 18 x 17mm switch spacing, such as the MBK keycaps. Not MX ones, nor 18 x 18mm ones such as Work Louder.
+*Keycaps*: Hillside boards are _only_ suitable for choc v1 switches and keycaps based on an 18 x 17mm switch spacing, such as the [ MBK](https://mkultra.click/mbk-choc-keycaps), [lowprokb LDSA](https://lowprokb.ca/products/ldsa-low-profile-blank-keycaps) and [MoErgo POM MCC](https://mkultra.click/moergo-mcc-pom-1u-keycap/) keycaps. Not MX ones, nor 18 x 18mm ones such as Work Louder, nor Kailh Choc Transparent keycaps.
 
 ## Hardware
 
