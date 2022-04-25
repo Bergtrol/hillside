@@ -7,13 +7,14 @@ It has the aggressive stagger of the Ferris but
 
 ![Hillside52 keyboard](https://github.com/mmccoyd/hillside/wiki/image/board/hill52_photo.png "Hillside 52 keyboard")
 
-The arrow clusters provide a more familiar keymap for users new to small keyboards and provide handy utility keys for more seasoned users.  See the Hillside family [readme](../readme.md) for features common to all hillside boards. Specific to the Hillside 52 are:
+The arrow clusters provide a more familiar keymap for users new to small keyboards and provide handy utility keys for more seasoned users.   See the Hillside family [readme](../readme.md) for features common to all hillside boards. Specific to the Hillside 52 are: 
  * One Encoder per side at either: upper or tucked thumb or lowest ring
 * Reversible 100 x 143mm PCB, which qualifies for AllPCB's free PCB offer
 
 ## Keymap
 
-The default keymap provides physical arrow keys, alternate hand modifiers for all keys and a navigation and editing layer. See the keymap [descrition](doc/keymap.md) for more details. ![Hillside52 keyboard](https://github.com/mmccoyd/hillside/wiki/image/keymap/hill52_summary_600.png "Hillside 52 keyboard three main layers")
+The default keymap has physical arrow keys, alternate hand modifiers for all keys and a navigation and editing layer. See the [keymap descrition](doc/keymap.md) for details.
+ ![Hillside52 keyboard](https://github.com/mmccoyd/hillside/wiki/image/keymap/hill52_summary_600.png "Hillside 52 keyboard three main layers")
 
 ## Firmware
 
