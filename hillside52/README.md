@@ -1,24 +1,20 @@
 # Hillside 52
 
-Hillside52 is a split ergonomic keyboard with 3x6+3+5 choc-spaced keys.
+Hillside 52 is a split ergonomic keyboard with 3x6+3+5 choc-spaced keys.
 It has the aggressive stagger of the Ferris but
-  physical arrow clusters, a longer thumb arc
+  finger splay, a physical arrow T, a longer thumb arc
   and break-off outer pinky columns.
 
-![Hillside52 keyboard](doc/image/hill52_photo.png "Hillside 52 keyboard")
+![Hillside52 keyboard](https://github.com/mmccoyd/hillside/wiki/image/board/hill52_photo.png "Hillside 52 keyboard")
 
-The arrow clusters provide a more familiar keymap for users new to small keyboards and for more seasoned users provide handy extra key spots. 
- See the Hillside family readme for features common with the other boards.
- - One Encoder per side at either: upper or tucked thumb or lowest ring
-- Reversible 100 x 143mm PCB, which qualifies for AllPCB's free PCB offer
+The arrow clusters provide a more familiar keymap for users new to small keyboards and provide handy utility keys for more seasoned users.  See the Hillside family [readme](../readme.md) for features common to all hillside boards. Specific to the Hillside 52 are:
+ * One Encoder per side at either: upper or tucked thumb or lowest ring
+* Reversible 100 x 143mm PCB, which qualifies for AllPCB's free PCB offer
 
 ## Keymap
 
 The default keymap provides physical arrow keys, alternate hand modifiers for all keys and a navigation and editing layer. See the keymap [descrition](doc/keymap.md) for more details. ![Hillside52 keyboard](https://github.com/mmccoyd/hillside/wiki/image/keymap/hill52_summary.png "Hillside 52 keyboard three main layers")
 
-
-
-  
 ## Firmware
 
 QMK: a fork I need to push, which will become a PR
