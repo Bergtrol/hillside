@@ -34,7 +34,7 @@ Their common features are:
 
 See the board readmes for details and default keymaps.
 
-*Keycaps*: Hillside boards are _only_ suitable for choc v1 switches and keycaps based on an 18 x 17mm switch spacing, such as the [MBK](https://mkultra.click/mbk-choc-keycaps), [Lowprokb LDSA](https://lowprokb.ca/products/ldsa-low-profile-blank-keycaps) and [MoErgo MCC](https://mkultra.click/moergo-mcc-pom-1u-keycap/) keycaps. Not MX ones, nor 18 x 18mm ones such as Work Louder, nor Kailh Choc Transparent keycaps.
+*Keycaps*: Hillside boards are _only_ suitable for choc v1 switches and keycaps based on an 18 x 17mm switch spacing, such as the [MBK](https://mkultra.click/mbk-choc-keycaps), [Lowprokb LDSA](https://lowprokb.ca/products/ldsa-low-profile-blank-keycaps) and [MoErgo MCC](https://mkultra.click/moergo-mcc-pom-1u-keycap/). Not MX ones, nor 18 x 18mm ones such as Work Louder, nor Kailh Choc Transparent.
 
 ## Hardware
 
