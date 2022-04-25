@@ -13,7 +13,7 @@ The arrow clusters provide a more familiar keymap for users new to small keyboar
 
 ## Keymap
 
-The default keymap provides physical arrow keys, alternate hand modifiers for all keys and a navigation and editing layer. See the keymap [descrition](doc/keymap.md) for more details. ![Hillside52 keyboard](https://github.com/mmccoyd/hillside/wiki/image/keymap/hill52_summary.png "Hillside 52 keyboard three main layers")
+The default keymap provides physical arrow keys, alternate hand modifiers for all keys and a navigation and editing layer. See the keymap [descrition](doc/keymap.md) for more details. ![Hillside52 keyboard](https://github.com/mmccoyd/hillside/wiki/image/keymap/hill52_summary_600.png "Hillside 52 keyboard three main layers")
 
 ## Firmware
 
