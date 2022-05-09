@@ -40,22 +40,21 @@ Also, the extra keys fit within the existing Hillside48 footprint and the inner 
 
 ## Images
 
-![Keymap](doc/image/hill56_keymap.png "PCB")
-
 <div style="background-color:#DCDCDC;">
 
-![Schematic](doc/image/hill56_schematic.svg "Schematic")
+![Schematic](doc/image/hill52_schematic.svg "Schematic")
 </div>
 
-![pcb](doc/image/hill56_pcb.png "PCB")
+![pcb](doc/image/hill52_pcb.png "PCB")
 
-![render](doc/image/hill56_pcb_render.png "Front Render")
+![render](doc/image/hill52_pcb_render.png "Front Render")
 
 <div style="background-color:#DCDCDC;">
 
 To test if the key layout suits your fingers,
  print the below switch layout images in landscape mode.
-![switches](doc/image/hill56_switches_left.svg "Switch Layout Left")
 
-![switches](doc/image/hill56_switches_right.svg "Switch Layout Right")
+![switches](doc/image/hill52_switches_left.svg "Switch Layout Left")
+
+![switches](doc/image/hill52_switches_right.svg "Switch Layout Right")
 </div>
