@@ -53,6 +53,7 @@ Also, the extra keys fit within the existing Hillside48 footprint and the inner 
 
 To test if the key layout suits your fingers,
  print the below switch layout images in landscape mode.
+(The images do not show well on a dark nighttime background.)
 
 ![switches](doc/image/hill52_switches_left.svg "Switch Layout Left")
 
